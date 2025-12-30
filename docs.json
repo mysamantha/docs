@@ -16,17 +16,17 @@
           {
             "group": "Introduction",
             "pages": [
-              "/Introduction/WelcometoMysamantha"
+              "/Introduction/Welcome to Mysamantha"
             ]
           },
           {
             "group": "How it works",
             "pages": [
-              "/How it works/HowMysamanthaWorks"
+              "/How it works/How Mysamantha Works"
             ]
           },
           {
-            "group": "Core Features",
+            "group": "CoreFeatures",
             "pages": [
               "/CoreFeatures/Notes",
               "/CoreFeatures/ToDo",
