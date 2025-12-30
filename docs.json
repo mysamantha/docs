@@ -22,16 +22,16 @@
           {
             "group": "How it works",
             "pages": [
-              "/How it works/How Mysamantha Works"
+              "/How it works/HowMysamanthaWorks"
             ]
           },
           {
             "group": "Core Features",
             "pages": [
-              "/Core Features/Notes",
-              "/Core Features/To Do",
-              "/Core Features/Journal",
-              "/Core Features/Assistant"
+              "/CoreFeatures/Notes",
+              "/CoreFeatures/To Do",
+              "/CoreFeatures/Journal",
+              "/CoreFeatures/Assistant"
             ]
           },
           {
