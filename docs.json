@@ -16,31 +16,31 @@
           {
             "group": "Introduction",
             "pages": [
-              "/Introduction/Welcome to Mysamantha"
+              "Introduction/WelcometoMysamantha"
             ]
           },
           {
-            "group": "Howitworks",
+            "group": "How it works",
             "pages": [
-              "/Howitworks/How Mysamantha Works"
+              "Howitworks/HowMysamanthaWorks"
             ]
           },
           {
-            "group": "CoreFeatures",
+            "group": "Core Features",
             "pages": [
-              "/CoreFeatures/Notes",
-              "/CoreFeatures/ToDo",
-              "/CoreFeatures/Journal",
-              "/CoreFeatures/Assistant"
+              "CoreFeatures/Notes",
+              "CoreFeatures/ToDo",
+              "CoreFeatures/Journal",
+              "CoreFeatures/Assistant"
             ]
           },
           {
             "group": "Integrations",
             "pages": [
-              "/Integrations/Integrations Overview",
-              "/Integrations/Email",
-              "/Integrations/Calendar",
-              "/Integrations/Gmap"
+              "Integrations/IntegrationsOverview",
+              "Integrations/Email",
+              "Integrations/Calendar",
+              "Integrations/Gmap"
             ]
           }
         ]
@@ -100,15 +100,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
