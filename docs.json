@@ -22,25 +22,25 @@
           {
             "group": "How it works",
             "pages": [
-              "How it works/How Mysamantha Works"
+              "/How it works/How Mysamantha Works"
             ]
           },
           {
             "group": "Core Features",
             "pages": [
-              "Core Features/Notes",
-              "Core Features/To Do",
-              "Core Features/Journal",
-              "Core Features/Assistant"
+              "/Core Features/Notes",
+              "/Core Features/To Do",
+              "/Core Features/Journal",
+              "/Core Features/Assistant"
             ]
           },
           {
             "group": "Integrations",
             "pages": [
-              "Integrations/Integrations Overview",
-              "Integrations/Email",
-              "Integrations/Calendar",
-              "Integrations/Gmap"
+              "/Integrations/Integrations Overview",
+              "/Integrations/Email",
+              "/Integrations/Calendar",
+              "/Integrations/Gmap"
             ]
           }
         ]
