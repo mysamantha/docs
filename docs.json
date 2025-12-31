@@ -37,7 +37,6 @@
           {
             "group": "Integrations",
             "pages": [
-              "Integrations/IntegrationsOverview",
               "Integrations/Email",
               "Integrations/Calendar",
               "Integrations/Gmap"
