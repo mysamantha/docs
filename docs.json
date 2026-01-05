@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
-  "name": "Mint Starter Kit",
+  "name": "Mysamantha Docs",
   "colors": {
     "primary": "#000000"
   },
@@ -17,11 +17,15 @@
         "groups": [
           {
             "group": "Introduction",
-            "pages": ["Introduction/WelcometoMysamantha"]
+            "pages": [
+              "Introduction/WelcometoMysamantha"
+            ]
           },
           {
             "group": "How it works",
-            "pages": ["Howitworks/HowMysamanthaWorks"]
+            "pages": [
+              "Howitworks/HowMysamanthaWorks"
+            ]
           },
           {
             "group": "Core Features",
@@ -42,11 +46,15 @@
           },
           {
             "group": "Browser Extension",
-            "pages": ["BrowserExtension/WebClipper"]
+            "pages": [
+              "BrowserExtension/WebClipper"
+            ]
           },
           {
             "group": "Migration",
-            "pages": ["Migration/Notion"]
+            "pages": [
+              "Migration/Notion"
+            ]
           },
           {
             "group": "Dashboard",
