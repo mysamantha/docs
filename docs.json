@@ -1,16 +1,38 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "Mysamantha Docs",
   "colors": {
-    "primary": "#FFFFFF",
-    "light": "#FFFFFF",
-    "dark": "#000000"
+    "primary": "#C82AEF"
   },
   "favicon": "/logo/favicon.png",
   "logo": {
     "light": "/logo/Black Logo (5).svg",
     "dark": "/logo/White Logo (5).svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:samantha@zemuria.com"
+      },
+      {
+        "label": "Blog",
+        "href": "https://mysamantha.ai/blog"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://mysamantha.ai"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/samanthareplies",
+      "instagram": "https://www.instagram.com/samanthareplies/",
+      "telegram": "https://t.me/samanthareplies"
+    }
   },
   "navigation": {
     "tabs": [
@@ -32,14 +54,20 @@
           {
             "group": "Core Features",
             "pages": [
-              "CoreFeatures/Notes",
+              "CoreFeatures/Notes"
+            ],
+            "groups": [
               {
-                "group": "ToDo",
+                "group": "To Do",
                 "pages": [
-                  "CoreFeatures/ToDo",
-                                                                "CoreFeatures/ToDo/Recurringtasks",         
+                  "CoreFeatures/Recurringtasks"
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "group": "Core Features",
+            "pages": [
               "CoreFeatures/Journal",
               "CoreFeatures/Assistant"
             ]
@@ -83,29 +111,5 @@
         ]
       }
     ]
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:samantha@zemuria.com"
-      },
-      {
-        "label": "Blog",
-        "href": "https://mysamantha.ai/blog"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://mysamantha.ai"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/samanthareplies",
-      "instagram": "https://www.instagram.com/samanthareplies/",
-      "telegram": "https://t.me/samanthareplies"
-    }
   }
 }
